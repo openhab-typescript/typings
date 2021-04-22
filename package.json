@@ -1,0 +1,24 @@
+{
+  "name": "openhab-typescript-typings",
+  "version": "0.0.1",
+  "description": "Provide Typings to help with writing ECMA-Scripts for openHAB",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openhab-typescript/typings.git"
+  },
+  "keywords": [
+    "openhab",
+    "typescript",
+    "jsr223",
+    "scripting"
+  ],
+  "author": "Waldemar Lehner <mail@waldemarlehner.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openhab-typescript/typings/issues"
+  },
+  "homepage": "https://github.com/openhab-typescript/typings#readme"
+}
